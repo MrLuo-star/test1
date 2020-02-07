@@ -6,5 +6,6 @@ public class Test2 {
 		System.out.println(2);
 		//456789
 //123456
+		//4567898
 	}
 }
