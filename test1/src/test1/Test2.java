@@ -5,5 +5,6 @@ public class Test2 {
 		System.out.println(1);
 		System.out.println(2);
 		//456789
+//123456
 	}
 }
